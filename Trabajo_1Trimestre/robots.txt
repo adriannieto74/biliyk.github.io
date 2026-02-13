@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Descomenta las siguientes líneas si quieres bloquear carpetas específicas
+# Disallow: /admin/
+# Disallow: /cgi-bin/
+# Disallow: /tmp/
+# Disallow: /private/
+
+# Ubicación del sitemap
+Sitemap: https://biliyk.github.io
